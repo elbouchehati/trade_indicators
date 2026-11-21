@@ -1,0 +1,6 @@
+# Ne jamais publier la clé ni les fichiers de cache
+.streamlit/secrets.toml
+secrets.toml
+.comtrade_cache/
+__pycache__/
+*.pyc
